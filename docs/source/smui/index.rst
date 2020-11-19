@@ -718,6 +718,14 @@ SMUI operations (multi instance)
 DEVELOPMENT SETUP
 -----------------
 
+
+Make sure you have the following services installed 
+- sbt (to 'run' the project)
+- node.js, npm
+	→ Check if the modue “esutils” is installed
+- database (follow the steps mentioned in "Step 1: Create and configure database (SQL level)")
+Ohterwise smui will not execute. 
+
 For developing new features and test the application with different type
 of configuration, it is recommended to create a local development
 configuration of the application (instead of the productive one
