@@ -718,6 +718,11 @@ SMUI operations (multi instance)
 DEVELOPMENT SETUP
 -----------------
 
+Make sure you have the following services installed:
+- sbt 
+- node.js, npm
+They are needed in order to run the SMUI application.
+
 For developing new features and test the application with different type
 of configuration, it is recommended to create a local development
 configuration of the application (instead of the productive one
